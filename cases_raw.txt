@@ -1,0 +1,515 @@
+{"Id": 180, "DeskproId": 2230, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 181, "DeskproId": 2231, "SharepointFolderName": "2231 - Aktindsigt Nova test", "Afslutningsdato": null}
+{"Id": 182, "DeskproId": 2232, "SharepointFolderName": "2232 - Aktindsigt Støj fra vejarbejde i Graven (Nanna og Anita)", "Afslutningsdato": null}
+{"Id": 183, "DeskproId": 2233, "SharepointFolderName": "2233 - Test af aktindsigt Sabrina", "Afslutningsdato": null}
+{"Id": 184, "DeskproId": 2234, "SharepointFolderName": "2234 - Aktindsigt Test", "Afslutningsdato": null}
+{"Id": 185, "DeskproId": 2235, "SharepointFolderName": "2235 - Aktindsigt Test af aktindsigt Camilla Harboe", "Afslutningsdato": null}
+{"Id": 186, "DeskproId": 2236, "SharepointFolderName": "2236 - Test af aktindsigt DITNAVN", "Afslutningsdato": null}
+{"Id": 187, "DeskproId": 2237, "SharepointFolderName": "2237 - Aktindsigt", "Afslutningsdato": null}
+{"Id": 188, "DeskproId": 2238, "SharepointFolderName": "2238 - Aktindsigt", "Afslutningsdato": null}
+{"Id": 189, "DeskproId": 2239, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 190, "DeskproId": 2240, "SharepointFolderName": "2240 - Aktindsigt i byggesag - Test - S1234-123456 Adresse 1", "Afslutningsdato": null}
+{"Id": 191, "DeskproId": 2241, "SharepointFolderName": "2241 - Aktindsigt Test LAURA", "Afslutningsdato": null}
+{"Id": 192, "DeskproId": 2242, "SharepointFolderName": "2242 - Aktindsigt test - Johanne", "Afslutningsdato": null}
+{"Id": 193, "DeskproId": 2243, "SharepointFolderName": "2243 - Aktindsigt Vesterbro Torv", "Afslutningsdato": null}
+{"Id": 194, "DeskproId": 2244, "SharepointFolderName": "2244 - Test 2 Sabrina", "Afslutningsdato": null}
+{"Id": 195, "DeskproId": 2245, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 196, "DeskproId": 2246, "SharepointFolderName": "2246 - Aktindsigt busbaner på ringvejen", "Afslutningsdato": null}
+{"Id": 197, "DeskproId": 2247, "SharepointFolderName": "2247 - Aktindsigt Test Laura - dokumentliste 0 dokumenter", "Afslutningsdato": null}
+{"Id": 198, "DeskproId": 2248, "SharepointFolderName": "2248 - Aktindsigt Testsag til undervisningsmateriale", "Afslutningsdato": null}
+{"Id": 199, "DeskproId": 2249, "SharepointFolderName": null, "Afslutningsdato": "2025-06-03T00:00:00+0000"}
+{"Id": 200, "DeskproId": 2250, "SharepointFolderName": "2250 - Tværgående aktindsigt om boligsituation", "Afslutningsdato": null}
+{"Id": 201, "DeskproId": 2251, "SharepointFolderName": "2251 - Aktindsigt Test Gustav", "Afslutningsdato": null}
+{"Id": 202, "DeskproId": 2252, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 203, "DeskproId": 2253, "SharepointFolderName": "2253 - AktindsigtTest ticket templates", "Afslutningsdato": null}
+{"Id": 204, "DeskproId": 2254, "SharepointFolderName": "2254 - Aktindsigt Anmodning om aktindsigt i dokumenter fra postlisten vedr GEO-2021-024934 - LP(...)", "Afslutningsdato": null}
+{"Id": 205, "DeskproId": 2255, "SharepointFolderName": "2255 - Test af aktindsigt Maria Fiskaali", "Afslutningsdato": null}
+{"Id": 206, "DeskproId": 2256, "SharepointFolderName": "2256 - Aktindsigt Test af aktindsigt Cecillie", "Afslutningsdato": null}
+{"Id": 207, "DeskproId": 2257, "SharepointFolderName": "2257 - Aktindsigt Havhusene i Ajstrup", "Afslutningsdato": null}
+{"Id": 208, "DeskproId": 2258, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 209, "DeskproId": 2259, "SharepointFolderName": "2259 - Aktindsigt", "Afslutningsdato": null}
+{"Id": 210, "DeskproId": 2260, "SharepointFolderName": "2260 - Aktindsigt Test test test", "Afslutningsdato": null}
+{"Id": 211, "DeskproId": 2261, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 212, "DeskproId": 2262, "SharepointFolderName": "2262 - Aktindsigt Anmodning om aktindsigt i dokument fra postlisten vedr GEO-2025-003522", "Afslutningsdato": "2025-06-03T00:00:00+0000"}
+{"Id": 213, "DeskproId": 2189, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 214, "DeskproId": 2263, "SharepointFolderName": "2263 - Aktindsigt Test (Slettes om lidt)", "Afslutningsdato": null}
+{"Id": 215, "DeskproId": 2264, "SharepointFolderName": "2264 - Aktindsigt Test - slettes snarest", "Afslutningsdato": null}
+{"Id": 216, "DeskproId": 2265, "SharepointFolderName": "2265 - Testsag til afgørelsesskriv", "Afslutningsdato": null}
+{"Id": 217, "DeskproId": 2266, "SharepointFolderName": "2266 - Anmodning om aktindsigt i sager vedr udviklingen af omniterminalen herunder GEO-2025-003723", "Afslutningsdato": "2025-06-11T00:00:00+0000"}
+{"Id": 218, "DeskproId": 2267, "SharepointFolderName": "2267 - Aktindsigt Byggetilladelse på Lergravvej 9 8380 Trige", "Afslutningsdato": "2025-06-11T00:00:00+0000"}
+{"Id": 219, "DeskproId": 2268, "SharepointFolderName": "2268 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-06-19T00:00:00+0000"}
+{"Id": 220, "DeskproId": 2269, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 221, "DeskproId": 2270, "SharepointFolderName": "2270 - Aktindsigt forespørgsler om Langelandsgade 62-64", "Afslutningsdato": "2025-06-19T00:00:00+0000"}
+{"Id": 222, "DeskproId": 2271, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 223, "DeskproId": 2272, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 224, "DeskproId": 2273, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 225, "DeskproId": 2274, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 226, "DeskproId": 2275, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 227, "DeskproId": 2276, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 228, "DeskproId": 2277, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 229, "DeskproId": 2278, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 230, "DeskproId": 2279, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 231, "DeskproId": 2280, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 232, "DeskproId": 2281, "SharepointFolderName": "2281 - Aktindsigt Altan godkendelser i ejerforening", "Afslutningsdato": "2025-06-19T00:00:00+0000"}
+{"Id": 233, "DeskproId": 2282, "SharepointFolderName": "2282 - Aktindsigt Indsigt i lokalplanforslag", "Afslutningsdato": "2025-06-20T00:00:00+0000"}
+{"Id": 234, "DeskproId": 2283, "SharepointFolderName": "2283 - Aktindsigt Nyt vikingemuseum", "Afslutningsdato": "2025-06-20T00:00:00+0000"}
+{"Id": 235, "DeskproId": 2284, "SharepointFolderName": "2284 - Aktindsigt Klage over terrænregulering", "Afslutningsdato": "2025-06-19T00:00:00+0000"}
+{"Id": 236, "DeskproId": 2285, "SharepointFolderName": "2285 - Aktindsigt Lokalplan for Skanderborgvej 215-223", "Afslutningsdato": "2025-07-02T00:00:00+0000"}
+{"Id": 237, "DeskproId": 2286, "SharepointFolderName": "2286 - Aktindsigt Sag S2023-27114 Veste Kongevej 4", "Afslutningsdato": "2025-06-20T00:00:00+0000"}
+{"Id": 238, "DeskproId": 2287, "SharepointFolderName": null, "Afslutningsdato": "2025-06-23T00:00:00+0000"}
+{"Id": 239, "DeskproId": 2288, "SharepointFolderName": null, "Afslutningsdato": "2025-06-19T00:00:00+0000"}
+{"Id": 240, "DeskproId": 2289, "SharepointFolderName": "2289 - Anmodning om aktindsigt i S2025-25879 Solbrinken 14 8270 Højbjerg", "Afslutningsdato": "2025-06-19T00:00:00+0000"}
+{"Id": 241, "DeskproId": 2290, "SharepointFolderName": "2290 - JNJ Test", "Afslutningsdato": null}
+{"Id": 242, "DeskproId": 2291, "SharepointFolderName": "2291 - Anmodning om aktindsigt i sager vedr udviklingen af omniterminalen herunder GEO-2025-003723", "Afslutningsdato": "2025-09-02T00:00:00+0000"}
+{"Id": 243, "DeskproId": 2292, "SharepointFolderName": null, "Afslutningsdato": "2025-06-20T00:00:00+0000"}
+{"Id": 244, "DeskproId": 2293, "SharepointFolderName": null, "Afslutningsdato": "2025-06-23T00:00:00+0000"}
+{"Id": 245, "DeskproId": 2294, "SharepointFolderName": "2294 - Aktindsigt Heiredalsstrædet (Test til brug for oplæring af studentermedhjælpere)", "Afslutningsdato": "2025-06-20T00:00:00+0000"}
+{"Id": 246, "DeskproId": 2295, "SharepointFolderName": "2295 - Anmodning om aktindsigt i S2025-18396", "Afslutningsdato": "2025-06-20T00:00:00+0000"}
+{"Id": 247, "DeskproId": 2296, "SharepointFolderName": "2296 - Ønsker aktindsigt i en byggesag", "Afslutningsdato": "2025-06-23T00:00:00+0000"}
+{"Id": 248, "DeskproId": 2297, "SharepointFolderName": "2297 - Aktindsigt Kærvej 11 - S202526855", "Afslutningsdato": "2025-06-30T00:00:00+0000"}
+{"Id": 249, "DeskproId": 2298, "SharepointFolderName": null, "Afslutningsdato": "2025-06-26T00:00:00+0000"}
+{"Id": 250, "DeskproId": 2299, "SharepointFolderName": null, "Afslutningsdato": "2025-06-24T00:00:00+0000"}
+{"Id": 251, "DeskproId": 2300, "SharepointFolderName": "2300 - Søger aktindsigt i sag S2025-26369 og S2023-63549", "Afslutningsdato": "2025-06-24T00:00:00+0000"}
+{"Id": 252, "DeskproId": 2301, "SharepointFolderName": "2301 - Aktindsigt i Magrethegaarden Bistro og Disco Bar´s spiritusbevilling", "Afslutningsdato": "2025-06-25T00:00:00+0000"}
+{"Id": 253, "DeskproId": 2302, "SharepointFolderName": "2302 - Test", "Afslutningsdato": null}
+{"Id": 254, "DeskproId": 2303, "SharepointFolderName": "2303 - Aktindsigt HASTER! Byggesagsnr S2024-25266", "Afslutningsdato": "2025-06-24T00:00:00+0000"}
+{"Id": 255, "DeskproId": 2304, "SharepointFolderName": "2304 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-07-02T00:00:00+0000"}
+{"Id": 256, "DeskproId": 2305, "SharepointFolderName": "2305 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-06-25T00:00:00+0000"}
+{"Id": 257, "DeskproId": 2306, "SharepointFolderName": "2306 - test - rettelse af afgørelsesskriv", "Afslutningsdato": null}
+{"Id": 258, "DeskproId": 2307, "SharepointFolderName": null, "Afslutningsdato": "2025-06-30T00:00:00+0000"}
+{"Id": 259, "DeskproId": 2308, "SharepointFolderName": "2308 - Aktindsigt byggetiladese Tag taresse på starandvengsvej 57 8250 egå", "Afslutningsdato": "2025-06-25T00:00:00+0000"}
+{"Id": 260, "DeskproId": 2309, "SharepointFolderName": "2309 - Aktindsigt Byggesager Egernvej", "Afslutningsdato": "2025-06-26T00:00:00+0000"}
+{"Id": 261, "DeskproId": 2310, "SharepointFolderName": null, "Afslutningsdato": "2025-07-01T00:00:00+0000"}
+{"Id": 262, "DeskproId": 2311, "SharepointFolderName": "2311 - Aktindsigt Klage over terrænregulering", "Afslutningsdato": "2025-07-03T00:00:00+0000"}
+{"Id": 263, "DeskproId": 2312, "SharepointFolderName": "2312 - aktindsigt i sag om lovliggørelse af ejendommen på Marselisborg Allé 29 Aarhus", "Afslutningsdato": "2025-07-02T00:00:00+0000"}
+{"Id": 264, "DeskproId": 2313, "SharepointFolderName": "2313 - Test af Novasag (Gustav)", "Afslutningsdato": null}
+{"Id": 265, "DeskproId": 2314, "SharepointFolderName": "2314 - Aktindsigt Indsigt i byggeri", "Afslutningsdato": "2025-07-01T00:00:00+0000"}
+{"Id": 266, "DeskproId": 2315, "SharepointFolderName": "2315 - Aktindsigt - nedrivningstilladelse S2024-45257", "Afslutningsdato": "2025-07-01T00:00:00+0000"}
+{"Id": 267, "DeskproId": 2316, "SharepointFolderName": "2316 - Aktindsigt Laskedalen 92 Byggetilladelsesansøgning", "Afslutningsdato": "2025-06-30T00:00:00+0000"}
+{"Id": 268, "DeskproId": 2317, "SharepointFolderName": null, "Afslutningsdato": "2025-07-22T00:00:00+0000"}
+{"Id": 269, "DeskproId": 2318, "SharepointFolderName": "2318 - Aktindsigt Bevilling for restaurationsvirksomhed", "Afslutningsdato": "2025-07-08T00:00:00+0000"}
+{"Id": 270, "DeskproId": 2319, "SharepointFolderName": "2319 - Anmodning om aktindsigt i S2025-10208 og S2025-1195 Ildervej 38A B 8270 Højbjerg - Vores(...)", "Afslutningsdato": "2025-07-01T00:00:00+0000"}
+{"Id": 271, "DeskproId": 2320, "SharepointFolderName": "2320 - Anmodning om aktindsigt i GEO-2025-004218 (Ildervej)", "Afslutningsdato": "2025-07-04T00:00:00+0000"}
+{"Id": 272, "DeskproId": 2321, "SharepointFolderName": "2321 - I forbindelse med en bodeling ønskes aktindsigt igangværende byggesager", "Afslutningsdato": "2025-07-01T00:00:00+0000"}
+{"Id": 273, "DeskproId": 2322, "SharepointFolderName": "2322 - Aktindsigt Parkeringsforhold mm", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 274, "DeskproId": 2323, "SharepointFolderName": "2323 - Aktindsigter liste over håndværksprojekter på Aarhus Rådhus med eksterne håndværkere i p(...)", "Afslutningsdato": ""}
+{"Id": 275, "DeskproId": 2324, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 276, "DeskproId": 2325, "SharepointFolderName": "2325 - Aktindsigt i postliste", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 277, "DeskproId": 2326, "SharepointFolderName": "2326 - Aktindsigt i postliste", "Afslutningsdato": "2025-07-08T00:00:00+0000"}
+{"Id": 278, "DeskproId": 2327, "SharepointFolderName": "2327 - Aktindsigt", "Afslutningsdato": "2025-07-09T00:00:00+0000"}
+{"Id": 279, "DeskproId": 2328, "SharepointFolderName": "2328 - Aktindsigt Skillevæg", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 280, "DeskproId": 2329, "SharepointFolderName": "2329 - Aktindsigt Byggesag", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 281, "DeskproId": 2330, "SharepointFolderName": "2330 - Aktindsigter samarbejdsaftale med Apcoa om parkering ved Thit Jensens Gade 3", "Afslutningsdato": "2025-08-27T00:00:00+0000"}
+{"Id": 282, "DeskproId": 2331, "SharepointFolderName": "2331 - Aktindsigt i byggesag S2022-20809 Frederiks Alle 106 ST 8000 Aarhus", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 283, "DeskproId": 2332, "SharepointFolderName": "2332 - Aktindsigt Ansøgt nedrivningstilladelse af Kærvej 11 8230 Åbyhøj", "Afslutningsdato": "2025-07-10T00:00:00+0000"}
+{"Id": 284, "DeskproId": 2333, "SharepointFolderName": null, "Afslutningsdato": "2025-07-04T00:00:00+0000"}
+{"Id": 285, "DeskproId": 2334, "SharepointFolderName": "2334 - Aktindsigt Spørgsmål om etablering af handicap-parkeringsplads", "Afslutningsdato": "2025-07-09T00:00:00+0000"}
+{"Id": 286, "DeskproId": 2335, "SharepointFolderName": "2335 - Aktindsigt Opførelse af rækkehuse på Ormslevvej 271", "Afslutningsdato": "2025-07-11T00:00:00+0000"}
+{"Id": 287, "DeskproId": 2336, "SharepointFolderName": "2336 - Aktindsigt lokalplan 1165", "Afslutningsdato": "2025-08-14T00:00:00+0000"}
+{"Id": 288, "DeskproId": 2337, "SharepointFolderName": "2337 - ønsker aktindsigt vedr byggesag nr S20256764 Rønnevænget 33 8340 Malling", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 289, "DeskproId": 2338, "SharepointFolderName": "2338 - Udtræk af skattebilletter fra GO", "Afslutningsdato": null}
+{"Id": 290, "DeskproId": 2339, "SharepointFolderName": "2339 - Aktindsigt Postliste", "Afslutningsdato": "2025-07-08T00:00:00+0000"}
+{"Id": 291, "DeskproId": 2340, "SharepointFolderName": null, "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 292, "DeskproId": 2341, "SharepointFolderName": "2341 - Aktindsigt S 2023 - 63163", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 293, "DeskproId": 2342, "SharepointFolderName": "2342 - Aktindsigt Postliste", "Afslutningsdato": "2025-07-08T00:00:00+0000"}
+{"Id": 294, "DeskproId": 2343, "SharepointFolderName": "2343 - Aktindsigt Byggesager på ejendom", "Afslutningsdato": "2025-07-07T00:00:00+0000"}
+{"Id": 295, "DeskproId": 2344, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 296, "DeskproId": 2345, "SharepointFolderName": "2345 - Aktindsigt i kontrakt", "Afslutningsdato": null}
+{"Id": 297, "DeskproId": 2346, "SharepointFolderName": "2346 - Test", "Afslutningsdato": null}
+{"Id": 298, "DeskproId": 2347, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 299, "DeskproId": 2348, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 300, "DeskproId": 2349, "SharepointFolderName": "2349 - Test Test", "Afslutningsdato": null}
+{"Id": 301, "DeskproId": 2350, "SharepointFolderName": "2350 - Aktindsigt Byggehøjde Åens Hus", "Afslutningsdato": "2025-07-14T00:00:00+0000"}
+{"Id": 302, "DeskproId": 2351, "SharepointFolderName": "2351 - Aktindsigt i postliste", "Afslutningsdato": "2025-07-14T00:00:00+0000"}
+{"Id": 303, "DeskproId": 2352, "SharepointFolderName": "2352 - Aktindsigt Lokalplan1233 Forslag", "Afslutningsdato": "2025-07-14T00:00:00+0000"}
+{"Id": 304, "DeskproId": 2353, "SharepointFolderName": "2353 - Aktindsigt Lokalplan1233 Forslag", "Afslutningsdato": "2025-08-01T00:00:00+0000"}
+{"Id": 305, "DeskproId": 2354, "SharepointFolderName": null, "Afslutningsdato": "2025-08-05T00:00:00+0000"}
+{"Id": 306, "DeskproId": 2355, "SharepointFolderName": "2355 - Aktindsigt Dagligvarebutik", "Afslutningsdato": "2025-07-17T00:00:00+0000"}
+{"Id": 307, "DeskproId": 2356, "SharepointFolderName": "2356 - Aktindsigt", "Afslutningsdato": "2025-07-31T00:00:00+0000"}
+{"Id": 308, "DeskproId": 2357, "SharepointFolderName": "2357 - Aktindsigt Nabo til byggeri", "Afslutningsdato": "2025-07-14T00:00:00+0000"}
+{"Id": 309, "DeskproId": 2358, "SharepointFolderName": null, "Afslutningsdato": "2025-07-21T00:00:00+0000"}
+{"Id": 310, "DeskproId": 2359, "SharepointFolderName": "2359 - Aktindsigt Byggesag S2023-13113", "Afslutningsdato": "2025-07-24T00:00:00+0000"}
+{"Id": 311, "DeskproId": 2360, "SharepointFolderName": "2360 - Aktindsigt Tilsynssager almene boligforeninger", "Afslutningsdato": "2025-08-15T00:00:00+0000"}
+{"Id": 312, "DeskproId": 2361, "SharepointFolderName": "2361 - Aktindsigt Indsigt i stor byggesag", "Afslutningsdato": "2025-07-17T00:00:00+0000"}
+{"Id": 313, "DeskproId": 2362, "SharepointFolderName": "2362 - Aktindsigt Ibrugtagningstilladelse på hus", "Afslutningsdato": "2025-07-17T00:00:00+0000"}
+{"Id": 314, "DeskproId": 2363, "SharepointFolderName": "2363 - Aktindsigt", "Afslutningsdato": "2025-07-24T00:00:00+0000"}
+{"Id": 315, "DeskproId": 2364, "SharepointFolderName": "2364 - Aktindsigt Afslutning af byggeri på Bakke Allé 1C Åbyhøj", "Afslutningsdato": "2025-07-23T00:00:00+0000"}
+{"Id": 316, "DeskproId": 2365, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 317, "DeskproId": 2366, "SharepointFolderName": null, "Afslutningsdato": "2025-07-24T00:00:00+0000"}
+{"Id": 318, "DeskproId": 2367, "SharepointFolderName": "2367 - Aktindsigt Byggesag igangværende", "Afslutningsdato": "2025-08-04T00:00:00+0000"}
+{"Id": 319, "DeskproId": 2368, "SharepointFolderName": "2368 - Aktindsigt P Skilt og parkeringlomme Skovvangsvej 15B", "Afslutningsdato": "2025-08-22T00:00:00+0000"}
+{"Id": 320, "DeskproId": 2369, "SharepointFolderName": "2369 - Aktindsigt ny bebyggelse på matrikel 1050a og 1039b 8000 aarhus c", "Afslutningsdato": "2025-07-28T00:00:00+0000"}
+{"Id": 321, "DeskproId": 2370, "SharepointFolderName": "2370 - Aktindsigt", "Afslutningsdato": "2025-07-30T00:00:00+0000"}
+{"Id": 322, "DeskproId": 2371, "SharepointFolderName": null, "Afslutningsdato": "2025-07-28T00:00:00+0000"}
+{"Id": 323, "DeskproId": 2372, "SharepointFolderName": "2372 - Aktindsigt Byggesag", "Afslutningsdato": "2025-08-04T00:00:00+0000"}
+{"Id": 324, "DeskproId": 2373, "SharepointFolderName": "2373 - Aktindsigt S2023-61383", "Afslutningsdato": "2025-07-30T00:00:00+0000"}
+{"Id": 325, "DeskproId": 2374, "SharepointFolderName": "2374 - Aktindsigt plantegning", "Afslutningsdato": "2025-07-31T00:00:00+0000"}
+{"Id": 326, "DeskproId": 2375, "SharepointFolderName": null, "Afslutningsdato": "2025-08-01T00:00:00+0000"}
+{"Id": 327, "DeskproId": 2376, "SharepointFolderName": null, "Afslutningsdato": "2025-07-30T00:00:00+0000"}
+{"Id": 328, "DeskproId": 2377, "SharepointFolderName": "2377 - test link podio", "Afslutningsdato": null}
+{"Id": 329, "DeskproId": 2378, "SharepointFolderName": "2378 - Aktindsigt Kollektiv råderet AAB", "Afslutningsdato": "2025-08-06T00:00:00+0000"}
+{"Id": 330, "DeskproId": 2379, "SharepointFolderName": "2379 - Aktindsigt Overtagelse og drift afd 100 Bindesbøll AAB", "Afslutningsdato": "2025-08-04T00:00:00+0000"}
+{"Id": 331, "DeskproId": 2380, "SharepointFolderName": "2380 - Aktindsigt Kærvej 11", "Afslutningsdato": "2025-08-11T00:00:00+0000"}
+{"Id": 332, "DeskproId": 2381, "SharepointFolderName": "2381 - Aktindsigt i byggesag vedr lovliggørelse af lejligheder i Banegårdsgade 16 1E 8000 Aarhus C", "Afslutningsdato": "2025-08-04T00:00:00+0000"}
+{"Id": 333, "DeskproId": 2382, "SharepointFolderName": "2382 - Aktindsigt Byggesag på Risbøgevej 6 8220 Brabrand", "Afslutningsdato": "2025-08-04T00:00:00+0000"}
+{"Id": 334, "DeskproId": 2383, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 335, "DeskproId": 2384, "SharepointFolderName": "2384 - Test aktliste slet sag", "Afslutningsdato": null}
+{"Id": 336, "DeskproId": 2385, "SharepointFolderName": "2385 - Aktindsigt ift klarlæggelse af bevaringsværdi og byggetilladelse", "Afslutningsdato": "2025-08-11T00:00:00+0000"}
+{"Id": 337, "DeskproId": 2386, "SharepointFolderName": "2386 - Aktindsigt Verserende byggesag på Graham Bells Vej 4 som fremgår af BBR", "Afslutningsdato": "2025-08-14T00:00:00+0000"}
+{"Id": 338, "DeskproId": 2387, "SharepointFolderName": "2387 - Aktindsigt - Drænsag omhandlende Åbovej 45", "Afslutningsdato": "2025-08-12T00:00:00+0000"}
+{"Id": 339, "DeskproId": 2388, "SharepointFolderName": "2388 - Aktindsigt Byggesag på Rugbjergvej 112", "Afslutningsdato": "2025-08-08T00:00:00+0000"}
+{"Id": 340, "DeskproId": 2389, "SharepointFolderName": "2389 - Aktindsigt Byggesag S2024-21339", "Afslutningsdato": "2025-08-14T00:00:00+0000"}
+{"Id": 341, "DeskproId": 2390, "SharepointFolderName": "2390 - Aktindsigt Nabo til byggeprojekt", "Afslutningsdato": "2025-08-14T00:00:00+0000"}
+{"Id": 342, "DeskproId": 2391, "SharepointFolderName": "2391 - Aktindsigt Badebroen ved Badevej Ansøgning om ændring af træbro til kombineret træ- og s(...)", "Afslutningsdato": "2025-08-14T00:00:00+0000"}
+{"Id": 343, "DeskproId": 2392, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 344, "DeskproId": 2393, "SharepointFolderName": "2393 - Aktindsigter indkøbte overvågningskameraer i perioden 2020-2025", "Afslutningsdato": "2025-08-21T00:00:00+0000"}
+{"Id": 345, "DeskproId": 2394, "SharepointFolderName": "2394 - Aktindsigt byggesag på Højriisgårdsvej 1A Truevej 11 8220 Brabrand", "Afslutningsdato": "2025-08-18T00:00:00+0000"}
+{"Id": 346, "DeskproId": 2395, "SharepointFolderName": "2395 - Jeg søger hermed aktindsigt i byggesagen ny 1sal - Risbøgevej 10 8220 Brabrand", "Afslutningsdato": "2025-08-14T00:00:00+0000"}
+{"Id": 347, "DeskproId": 2396, "SharepointFolderName": "2396 - Aktindsigt BNBO-påbud - Framlev Korsvej 26", "Afslutningsdato": "2025-08-15T00:00:00+0000"}
+{"Id": 348, "DeskproId": 2397, "SharepointFolderName": "2397 - Aktindsigt Aktindsigt vedrørende parkeringsbøder", "Afslutningsdato": "2025-08-15T00:00:00+0000"}
+{"Id": 349, "DeskproId": 2398, "SharepointFolderName": "2398 - Anmodning om aktindsigt i LP X199 Mejerigrund i Lisbjerg", "Afslutningsdato": null}
+{"Id": 350, "DeskproId": 2399, "SharepointFolderName": "2399 - Aktindsigt Juuls Passage eller Studsgade 12L 8000 Aarhus C", "Afslutningsdato": "2025-08-15T00:00:00+0000"}
+{"Id": 351, "DeskproId": 2400, "SharepointFolderName": "2400 - Aktindsigt – Highline i lokalplan 1054", "Afslutningsdato": "2025-08-20T00:00:00+0000"}
+{"Id": 352, "DeskproId": 2401, "SharepointFolderName": null, "Afslutningsdato": "2025-08-22T00:00:00+0000"}
+{"Id": 353, "DeskproId": 2402, "SharepointFolderName": "2402 - Der ønskes aktindsigt i Aarhus kommunes korrespondance med Salling Group i sagen S2024-43311", "Afslutningsdato": "2025-08-20T00:00:00+0000"}
+{"Id": 354, "DeskproId": 2403, "SharepointFolderName": "2403 - Aktindsigt Anmodning om aktliste – Lokalplan X036 Vejlby Vest", "Afslutningsdato": "2025-08-21T00:00:00+0000"}
+{"Id": 355, "DeskproId": 2404, "SharepointFolderName": "2404 - Anmodning om aktindsigt i lokalplan 1165", "Afslutningsdato": "2025-08-26T00:00:00+0000"}
+{"Id": 356, "DeskproId": 2405, "SharepointFolderName": "2405 - Aktindsigt Sjette Frederiks Kro", "Afslutningsdato": "2025-08-21T00:00:00+0000"}
+{"Id": 357, "DeskproId": 2406, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 358, "DeskproId": 2407, "SharepointFolderName": "2407 - Aktindsigt Akter vedr gangbro fra Skovvejen til Fiskerivej", "Afslutningsdato": "2025-08-29T00:00:00+0000"}
+{"Id": 359, "DeskproId": 2408, "SharepointFolderName": null, "Afslutningsdato": "2025-08-28T00:00:00+0000"}
+{"Id": 360, "DeskproId": 2409, "SharepointFolderName": null, "Afslutningsdato": "2025-08-22T00:00:00+0000"}
+{"Id": 361, "DeskproId": 2410, "SharepointFolderName": "2410 - Aktindsigt Postliste", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 362, "DeskproId": 2411, "SharepointFolderName": "2411 - Aktindsigt i postliste", "Afslutningsdato": "2025-08-21T00:00:00+0000"}
+{"Id": 363, "DeskproId": 2412, "SharepointFolderName": "2412 - Aktindsigt i byggetilladelse med bilag inkl tillæg til byggetilladelse kan ikke findes p(...)", "Afslutningsdato": "2025-08-25T00:00:00+0000"}
+{"Id": 364, "DeskproId": 2413, "SharepointFolderName": "2413 - Aktindsigt Byggetilladelse", "Afslutningsdato": "2025-08-21T00:00:00+0000"}
+{"Id": 365, "DeskproId": 2414, "SharepointFolderName": null, "Afslutningsdato": "2025-08-22T00:00:00+0000"}
+{"Id": 366, "DeskproId": 2415, "SharepointFolderName": "2415 - Aktindsigt Silkeborgvej 298 (Jord)", "Afslutningsdato": "2025-08-21T00:00:00+0000"}
+{"Id": 367, "DeskproId": 2416, "SharepointFolderName": null, "Afslutningsdato": "2025-08-21T00:00:00+0000"}
+{"Id": 368, "DeskproId": 2417, "SharepointFolderName": "2417 - Aktindsigt Havhuset", "Afslutningsdato": "2025-08-26T00:00:00+0000"}
+{"Id": 369, "DeskproId": 2418, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 370, "DeskproId": 2419, "SharepointFolderName": "2419 - Aktindsigt Nabo til byggeri", "Afslutningsdato": "2025-08-22T00:00:00+0000"}
+{"Id": 371, "DeskproId": 2420, "SharepointFolderName": "2420 - Aktindsigt Indeklima Jarlsmindevej 230 Viby J", "Afslutningsdato": "2025-08-25T00:00:00+0000"}
+{"Id": 372, "DeskproId": 2421, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 373, "DeskproId": 2422, "SharepointFolderName": "2422 - Aktindsigt Salg af ejendom", "Afslutningsdato": "2025-09-15T00:00:00+0000"}
+{"Id": 374, "DeskproId": 2423, "SharepointFolderName": "2423 - Aktindsigt Indsigt i postliste", "Afslutningsdato": ""}
+{"Id": 375, "DeskproId": 2424, "SharepointFolderName": "2424 - Anmodning om aktindsigt i dokument fra postlisten vedr GEO-2025-004634", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 376, "DeskproId": 2425, "SharepointFolderName": "2425 - Aktindsigt", "Afslutningsdato": "2025-09-02T00:00:00+0000"}
+{"Id": 377, "DeskproId": 2426, "SharepointFolderName": "2426 - Anmodning om aktindsigt i S2025-10810 Kirkegårdsvej 7 8000 Aarhus C", "Afslutningsdato": "2025-08-25T00:00:00+0000"}
+{"Id": 378, "DeskproId": 2427, "SharepointFolderName": "2427 - Aktindsigt Byggetilladelse for Vardøgade 5", "Afslutningsdato": "2025-08-26T00:00:00+0000"}
+{"Id": 379, "DeskproId": 2428, "SharepointFolderName": null, "Afslutningsdato": "2025-08-28T00:00:00+0000"}
+{"Id": 380, "DeskproId": 2429, "SharepointFolderName": null, "Afslutningsdato": "2025-08-26T00:00:00+0000"}
+{"Id": 381, "DeskproId": 2430, "SharepointFolderName": null, "Afslutningsdato": "2025-08-25T00:00:00+0000"}
+{"Id": 382, "DeskproId": 2431, "SharepointFolderName": "2431 - Aktindsigt Færdige projekttegninger", "Afslutningsdato": "2025-09-01T00:00:00+0000"}
+{"Id": 383, "DeskproId": 2432, "SharepointFolderName": "2432 - Aktindsigt for byggesag på Solbrinken 18b 8270 Højbjerg", "Afslutningsdato": "2025-09-02T00:00:00+0000"}
+{"Id": 384, "DeskproId": 2433, "SharepointFolderName": "2433 - Aktindsigt Byggetilladelse for Hjortshøjvangen 8", "Afslutningsdato": "2025-09-01T00:00:00+0000"}
+{"Id": 385, "DeskproId": 2434, "SharepointFolderName": null, "Afslutningsdato": "2025-09-10T00:00:00+0000"}
+{"Id": 386, "DeskproId": 2435, "SharepointFolderName": null, "Afslutningsdato": "2025-08-27T00:00:00+0000"}
+{"Id": 387, "DeskproId": 2436, "SharepointFolderName": "2436 - Aktindsigt Kvædevej Højbjerg Vedligeholdelse generelt af privat fællesvej - GEO-2015-023657", "Afslutningsdato": "2025-08-28T00:00:00+0000"}
+{"Id": 388, "DeskproId": 2437, "SharepointFolderName": "2437 - Aktindsigt Anmodning om Akinsigt", "Afslutningsdato": "2025-09-05T00:00:00+0000"}
+{"Id": 389, "DeskproId": 2438, "SharepointFolderName": null, "Afslutningsdato": "2025-09-01T00:00:00+0000"}
+{"Id": 390, "DeskproId": 2439, "SharepointFolderName": "2439 - Aktindsigt Kærvej 11 - S202526855", "Afslutningsdato": "2025-09-05T00:00:00+0000"}
+{"Id": 391, "DeskproId": 2440, "SharepointFolderName": null, "Afslutningsdato": "2025-08-28T00:00:00+0000"}
+{"Id": 392, "DeskproId": 2441, "SharepointFolderName": "2441 - test - forkert sag sat på", "Afslutningsdato": null}
+{"Id": 393, "DeskproId": 2442, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 394, "DeskproId": 2443, "SharepointFolderName": "2443 - Aktindsigt", "Afslutningsdato": "2025-09-03T00:00:00+0000"}
+{"Id": 395, "DeskproId": 2444, "SharepointFolderName": "2444 - Aktindsigt Genhusning Håndværkerparken", "Afslutningsdato": "2025-09-01T00:00:00+0000"}
+{"Id": 396, "DeskproId": 2445, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 397, "DeskproId": 2446, "SharepointFolderName": "2446 - Aktindsigt S2022-438718 antenne", "Afslutningsdato": "2025-09-01T00:00:00+0000"}
+{"Id": 398, "DeskproId": 2447, "SharepointFolderName": "2447 - Sagsindsigt Vedr Kvindelig Kulturforening i Tilst", "Afslutningsdato": "2025-09-07T00:00:00+0000"}
+{"Id": 399, "DeskproId": 2448, "SharepointFolderName": "2448 - Aktindsigt Byggesag for Gavnøvænget 26 8381 Tilst", "Afslutningsdato": "2025-09-02T00:00:00+0000"}
+{"Id": 400, "DeskproId": 2449, "SharepointFolderName": "2449 - Aktindsigt Igangværende Byggesag vedrørende Nordre Strandvej 4 8240 Risskov", "Afslutningsdato": "2025-09-02T00:00:00+0000"}
+{"Id": 401, "DeskproId": 2450, "SharepointFolderName": "2450 - Aktindsigt Byggesag S2024-59960", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 402, "DeskproId": 2451, "SharepointFolderName": "2451 - Aktindsigt Bekymring omkring højden på byggeriet S2022-434461 og dermed mulighed for gen(...)", "Afslutningsdato": "2025-09-10T00:00:00+0000"}
+{"Id": 403, "DeskproId": 2452, "SharepointFolderName": "2452 - Aktindsigt Lokalplan nr 1248 Boligområde ved Egå Møllevej Egå Tidligere X067", "Afslutningsdato": "2025-09-17T00:00:00+0000"}
+{"Id": 404, "DeskproId": 2453, "SharepointFolderName": "2453 - Anmodning om aktindsigt i SAM-2025-000474 - VVM - ny containerterminal på omniterminalen(...)", "Afslutningsdato": "2025-09-22T00:00:00+0000"}
+{"Id": 405, "DeskproId": 2454, "SharepointFolderName": "2454 - Aktindsigt indsigt i lokalplan under udarbejdelse", "Afslutningsdato": "2025-10-03T00:00:00+0000"}
+{"Id": 406, "DeskproId": 2455, "SharepointFolderName": null, "Afslutningsdato": "2025-09-03T00:00:00+0000"}
+{"Id": 407, "DeskproId": 2456, "SharepointFolderName": "2456 - test dokumentliste langt filnavn", "Afslutningsdato": null}
+{"Id": 408, "DeskproId": 2457, "SharepointFolderName": "2457 - Aktindsigt", "Afslutningsdato": "2025-09-02T00:00:00+0000"}
+{"Id": 409, "DeskproId": 2458, "SharepointFolderName": "2458 - Test - bilag", "Afslutningsdato": null}
+{"Id": 410, "DeskproId": 2459, "SharepointFolderName": "2459 - Aktindsigt Antal ansatte parkeringsvagter i Aarhus Kommune", "Afslutningsdato": "2025-09-03T00:00:00+0000"}
+{"Id": 411, "DeskproId": 2460, "SharepointFolderName": "2460 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-09-04T00:00:00+0000"}
+{"Id": 412, "DeskproId": 2461, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 413, "DeskproId": 2462, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 414, "DeskproId": 2463, "SharepointFolderName": "2463 - Anmodning om aktindsigt i S2024-29730 JP Larsens Vej 19 8220 Brabrand", "Afslutningsdato": "2025-09-04T00:00:00+0000"}
+{"Id": 415, "DeskproId": 2464, "SharepointFolderName": "2464 - Aktindsigt i postliste", "Afslutningsdato": "2025-09-05T00:00:00+0000"}
+{"Id": 416, "DeskproId": 2465, "SharepointFolderName": "2465 - Aktindsigt Indsigt i korrespondance", "Afslutningsdato": "2025-09-11T00:00:00+0000"}
+{"Id": 417, "DeskproId": 2466, "SharepointFolderName": "2466 - Aktindsigt Indsigt i lokalplan", "Afslutningsdato": "2025-09-12T00:00:00+0000"}
+{"Id": 418, "DeskproId": 2469, "SharepointFolderName": "2469 - Aktindsigt Materiale der omfatter ansøger selv", "Afslutningsdato": "2025-09-10T00:00:00+0000"}
+{"Id": 419, "DeskproId": 2470, "SharepointFolderName": "2470 - Aktindsigt Marselis Boulevard - adgangsforhold til offentlige og private veje", "Afslutningsdato": "2025-09-05T00:00:00+0000"}
+{"Id": 420, "DeskproId": 2471, "SharepointFolderName": null, "Afslutningsdato": "2025-10-01T00:00:00+0000"}
+{"Id": 421, "DeskproId": 2472, "SharepointFolderName": null, "Afslutningsdato": "2025-09-15T00:00:00+0000"}
+{"Id": 422, "DeskproId": 2473, "SharepointFolderName": "2473 - Aktindsigt Byggesag", "Afslutningsdato": "2025-09-12T00:00:00+0000"}
+{"Id": 423, "DeskproId": 2474, "SharepointFolderName": "2474 - Aktindsigt sagsnr S2025-32249", "Afslutningsdato": "2025-09-23T00:00:00+0000"}
+{"Id": 424, "DeskproId": 2477, "SharepointFolderName": null, "Afslutningsdato": "2025-09-09T00:00:00+0000"}
+{"Id": 425, "DeskproId": 2478, "SharepointFolderName": null, "Afslutningsdato": "2025-09-16T00:00:00+0000"}
+{"Id": 426, "DeskproId": 2479, "SharepointFolderName": null, "Afslutningsdato": "2025-09-26T00:00:00+0000"}
+{"Id": 427, "DeskproId": 2480, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 428, "DeskproId": 2481, "SharepointFolderName": null, "Afslutningsdato": "2025-09-10T00:00:00+0000"}
+{"Id": 429, "DeskproId": 2482, "SharepointFolderName": "2482 - Aktindsigt i byggesag nr SagS2025-1851 omhandlende Holmetoften 37B 8270 Højbjerg", "Afslutningsdato": "2025-09-16T00:00:00+0000"}
+{"Id": 430, "DeskproId": 2483, "SharepointFolderName": "2483 - Aktindsigt Boligsag", "Afslutningsdato": "2025-09-17T00:00:00+0000"}
+{"Id": 431, "DeskproId": 2484, "SharepointFolderName": null, "Afslutningsdato": "2025-09-11T00:00:00+0000"}
+{"Id": 432, "DeskproId": 2485, "SharepointFolderName": null, "Afslutningsdato": "2025-09-12T00:00:00+0000"}
+{"Id": 433, "DeskproId": 2486, "SharepointFolderName": "2486 - Anmodning om aktindsigt – trafiksikkerhed ved Vejlby Centervej", "Afslutningsdato": "2025-09-18T00:00:00+0000"}
+{"Id": 434, "DeskproId": 2487, "SharepointFolderName": "2487 - Aktindsigt i S2025-30287", "Afslutningsdato": "2025-09-16T00:00:00+0000"}
+{"Id": 435, "DeskproId": 2488, "SharepointFolderName": null, "Afslutningsdato": "2025-10-01T00:00:00+0000"}
+{"Id": 436, "DeskproId": 2489, "SharepointFolderName": "2489 - Aktindsigt Egernvej", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 437, "DeskproId": 2491, "SharepointFolderName": "2491 - Aktindsigt 14 lokaliteter til historisk redegørelse i Aarhus Kommune", "Afslutningsdato": "2025-09-19T00:00:00+0000"}
+{"Id": 438, "DeskproId": 2492, "SharepointFolderName": "2492 - Aktindsigt Byggesag", "Afslutningsdato": "2025-09-12T00:00:00+0000"}
+{"Id": 439, "DeskproId": 2493, "SharepointFolderName": "2493 - Aktindsigt Historik og kortlægningsbrev på Louisevej 2", "Afslutningsdato": "2025-09-12T00:00:00+0000"}
+{"Id": 440, "DeskproId": 2490, "SharepointFolderName": "2490 - Anmodning om aktindsigt i alle dokumenter vedr LP 1165", "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 442, "DeskproId": 2494, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 443, "DeskproId": 2495, "SharepointFolderName": "2495 - Aktindsigt i postliste", "Afslutningsdato": "2025-09-17T00:00:00+0000"}
+{"Id": 444, "DeskproId": 2497, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 445, "DeskproId": 2498, "SharepointFolderName": "2498 - Aktindsigt Havhuset", "Afslutningsdato": "2025-09-19T00:00:00+0000"}
+{"Id": 446, "DeskproId": 2499, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 447, "DeskproId": 2496, "SharepointFolderName": "2496 - Anmodning om aktindsigt i dokumenter fra postlisten", "Afslutningsdato": "2025-09-15T00:00:00+0000"}
+{"Id": 448, "DeskproId": 2500, "SharepointFolderName": "2500 - Anmodning om aktindsigt i Lokalplan x104 - Resultat af forundersøgelsen", "Afslutningsdato": "2025-09-24T00:00:00+0000"}
+{"Id": 449, "DeskproId": 2501, "SharepointFolderName": null, "Afslutningsdato": "2025-10-03T00:00:00+0000"}
+{"Id": 450, "DeskproId": 2502, "SharepointFolderName": "2502 - Aktindsigt Damagervej Viby Diverse vedr privat fællesvej", "Afslutningsdato": "2025-09-16T00:00:00+0000"}
+{"Id": 451, "DeskproId": 2503, "SharepointFolderName": "2503 - Aktindsigt NY Damagervej Viby Diverse vedr privat fællesvej", "Afslutningsdato": "2025-09-16T00:00:00+0000"}
+{"Id": 452, "DeskproId": 2504, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 453, "DeskproId": 2505, "SharepointFolderName": "2505 - Aktindsigt Badevej 25 8240 Risskov", "Afslutningsdato": "2025-09-24T00:00:00+0000"}
+{"Id": 454, "DeskproId": 2506, "SharepointFolderName": "2506 - Aktindsigt Byggetilladelse på carport for Myntevej 28", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 455, "DeskproId": 2507, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 456, "DeskproId": 2508, "SharepointFolderName": "2508 - Aktindsigt Nyt planlagt bosted i Tranbjerg", "Afslutningsdato": "2025-09-22T00:00:00+0000"}
+{"Id": 457, "DeskproId": 2509, "SharepointFolderName": "2509 - Ansøgning om Aktindsigt - Byggesags nr S2022-12536", "Afslutningsdato": "2025-09-19T00:00:00+0000"}
+{"Id": 458, "DeskproId": 2510, "SharepointFolderName": "2510 - Aktindsigt vedr ansøgning om nedrivning udmatrikulering og byggesager", "Afslutningsdato": "2025-09-23T00:00:00+0000"}
+{"Id": 459, "DeskproId": 2511, "SharepointFolderName": "2511 - Aktindsigt S2024-30617", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 460, "DeskproId": 2512, "SharepointFolderName": "2512 - Aktindsigt Kærvej 11 - S202526855", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 461, "DeskproId": 2513, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 462, "DeskproId": 2514, "SharepointFolderName": null, "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 463, "DeskproId": 2515, "SharepointFolderName": "2515 - Anmodning om aktindsigt i materiale vedr omniterminalen", "Afslutningsdato": "2025-09-22T00:00:00+0000"}
+{"Id": 464, "DeskproId": 2516, "SharepointFolderName": "2516 - Aktindsigt Badehusene ved Ajstrup Strand 8340 Malling", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 465, "DeskproId": 2517, "SharepointFolderName": "2517 - Aktindsigt Fuld aktliste over dokumenter ifm salg af erhvervsgrund", "Afslutningsdato": "2025-10-10T00:00:00+0000"}
+{"Id": 466, "DeskproId": 2518, "SharepointFolderName": "2518 - Anmodning om aktindsigt – S2023-33069 – Opførelse af kontorbygning Byporten Nord", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 467, "DeskproId": 2519, "SharepointFolderName": "2519 - Aktindsigt Klagesag S2025-59039 – JP Larsens Vej 19 8220 Brabrand", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 468, "DeskproId": 2520, "SharepointFolderName": "2520 - Aktindsigt ArresøvejEngsøvej Storparcel 5", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 469, "DeskproId": 2521, "SharepointFolderName": "2521 - Aktindsigt Byggeaktiviteter på Bispehavevej", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 470, "DeskproId": 2522, "SharepointFolderName": "2522 - Aktindsigt i alle sagsakter vedrørende sag S2025-54129", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 471, "DeskproId": 2523, "SharepointFolderName": "2523 - Aktindsigt", "Afslutningsdato": "2025-09-29T00:00:00+0000"}
+{"Id": 472, "DeskproId": 2524, "SharepointFolderName": "2524 - Aktindsigtsbegæring vedrørende delvis sammenstyrtning i ejendom på Sønder Alle 10", "Afslutningsdato": "2025-09-29T00:00:00+0000"}
+{"Id": 473, "DeskproId": 2525, "SharepointFolderName": "2525 - Aktindsigt S2025-60146", "Afslutningsdato": "2025-09-25T00:00:00+0000"}
+{"Id": 474, "DeskproId": 2526, "SharepointFolderName": "2526 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-09-26T00:00:00+0000"}
+{"Id": 475, "DeskproId": 2527, "SharepointFolderName": "2527 - Anmodning om aktindsigt – Oddervej 84 Alexandra Plads Højbjerg", "Afslutningsdato": "2025-09-29T00:00:00+0000"}
+{"Id": 476, "DeskproId": 2528, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 477, "DeskproId": 2529, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 478, "DeskproId": 2530, "SharepointFolderName": "2530 - Aktindsigt Fridtjof Nansens Vej 69", "Afslutningsdato": "2025-09-26T00:00:00+0000"}
+{"Id": 479, "DeskproId": 2531, "SharepointFolderName": null, "Afslutningsdato": "2025-09-29T00:00:00+0000"}
+{"Id": 480, "DeskproId": 2532, "SharepointFolderName": "2532 - Anmodning om aktindsigt i S2022-428865", "Afslutningsdato": "2025-09-26T00:00:00+0000"}
+{"Id": 481, "DeskproId": 2533, "SharepointFolderName": null, "Afslutningsdato": "2025-09-30T00:00:00+0000"}
+{"Id": 482, "DeskproId": 2534, "SharepointFolderName": "2534 - Aktindsigt Rema på Højbjerg Torv", "Afslutningsdato": "2025-10-03T00:00:00+0000"}
+{"Id": 483, "DeskproId": 2535, "SharepointFolderName": "2535 - Aktindsigt Ny containerterminal på Omni", "Afslutningsdato": "2025-10-03T00:00:00+0000"}
+{"Id": 484, "DeskproId": 2536, "SharepointFolderName": "2536 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-09-30T00:00:00+0000"}
+{"Id": 485, "DeskproId": 2537, "SharepointFolderName": "2537 - Anmodning om aktindsigt i dokument fra postlisten vedr GEO-2025-004096", "Afslutningsdato": "2025-10-03T00:00:00+0000"}
+{"Id": 486, "DeskproId": 2538, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 487, "DeskproId": 2539, "SharepointFolderName": null, "Afslutningsdato": "2025-09-30T00:00:00+0000"}
+{"Id": 488, "DeskproId": 2540, "SharepointFolderName": "2540 - Udtræk af ejendomsskattebilletter", "Afslutningsdato": null}
+{"Id": 489, "DeskproId": 2541, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 490, "DeskproId": 2542, "SharepointFolderName": "2542 - Anmodning om aktindsigt i byggesagen S2024-46443 Peter Sabroes Gade 14A-N 8000 Aarhus C", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 491, "DeskproId": 2543, "SharepointFolderName": "2543 - Aktindsigt Aktliste for Arresøvej 5–7", "Afslutningsdato": "2025-10-08T00:00:00+0000"}
+{"Id": 492, "DeskproId": 2544, "SharepointFolderName": "2544 - Aktindsigt Aktliste for Arresøvej 4", "Afslutningsdato": "2025-10-08T00:00:00+0000"}
+{"Id": 493, "DeskproId": 2545, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 494, "DeskproId": 2546, "SharepointFolderName": "2546 - Aktindsigt Drænledning Norringholm (sagsnr GEO-2025-001253)", "Afslutningsdato": "2025-10-08T00:00:00+0000"}
+{"Id": 495, "DeskproId": 2547, "SharepointFolderName": "2547 - Aktindsigt Omniterminalen", "Afslutningsdato": "2025-10-10T00:00:00+0000"}
+{"Id": 496, "DeskproId": 2548, "SharepointFolderName": "2548 - Aktindsigt vedr Karslundvej og Ørnevænget 8330 Beder", "Afslutningsdato": "2025-10-02T00:00:00+0000"}
+{"Id": 497, "DeskproId": 2549, "SharepointFolderName": "2549 - Aktindsigt i forbuddet mod le coq kan servere udenfor efter kl2", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 498, "DeskproId": 2550, "SharepointFolderName": "2550 - Anmodning om aktindsigt i S2025-3917 og S2024-49939 Lauge Kochs Vej 10", "Afslutningsdato": "2025-10-08T00:00:00+0000"}
+{"Id": 499, "DeskproId": 2551, "SharepointFolderName": "2551 - Aktindsigt Kommende byggeri på Egernvej 15 8270 Højbjerg", "Afslutningsdato": "2025-10-08T00:00:00+0000"}
+{"Id": 500, "DeskproId": 2552, "SharepointFolderName": "2552 - Aktindsigt Kommende byggeri på Egernvej 11 8270 Højbjerg", "Afslutningsdato": "2025-10-08T00:00:00+0000"}
+{"Id": 501, "DeskproId": 2553, "SharepointFolderName": "2553 - test - filarkiv", "Afslutningsdato": null}
+{"Id": 502, "DeskproId": 2554, "SharepointFolderName": "2554 - Aktindsigt Byggeansøgning", "Afslutningsdato": "2025-10-03T00:00:00+0000"}
+{"Id": 503, "DeskproId": 2555, "SharepointFolderName": "2555 - Ansøgning om Aktindsigt - Kalkværksvej 43 8000 Aarhus C", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 504, "DeskproId": 2556, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 505, "DeskproId": 2557, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 506, "DeskproId": 2558, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 507, "DeskproId": 2559, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 508, "DeskproId": 2560, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 509, "DeskproId": 2561, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 510, "DeskproId": 2562, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 511, "DeskproId": 2563, "SharepointFolderName": "2563 - Aktindsigt Parkering i Navitas", "Afslutningsdato": "2025-10-06T00:00:00+0000"}
+{"Id": 512, "DeskproId": 2564, "SharepointFolderName": null, "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 513, "DeskproId": 2565, "SharepointFolderName": "2565 - Aktindsigt OmbygningRenovering af Vokseværkets facade", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 514, "DeskproId": 2566, "SharepointFolderName": "2566 - Aktindsigt Aktinsigt i byggetilladelse til Hjortshøjvangen 8", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 515, "DeskproId": 2567, "SharepointFolderName": "2567 - Aktindsigt Kloaktegninger", "Afslutningsdato": "2025-10-08T00:00:00+0000"}
+{"Id": 516, "DeskproId": 2568, "SharepointFolderName": "2568 - Aktindsigt Omniterminal", "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 517, "DeskproId": 2569, "SharepointFolderName": null, "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 518, "DeskproId": 2570, "SharepointFolderName": null, "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 519, "DeskproId": 2571, "SharepointFolderName": null, "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 520, "DeskproId": 2572, "SharepointFolderName": null, "Afslutningsdato": "2025-10-07T00:00:00+0000"}
+{"Id": 521, "DeskproId": 2573, "SharepointFolderName": "2573 - Aktindsigt Bådpladsleje og tidsforbrug", "Afslutningsdato": "2025-11-14T00:00:00+0000"}
+{"Id": 522, "DeskproId": 2574, "SharepointFolderName": "2574 - Aktindsigt vedr Aarhus Kommunes ejendom Asmusvej 1A 8530 Hjortshøj", "Afslutningsdato": ""}
+{"Id": 523, "DeskproId": 2575, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 524, "DeskproId": 2576, "SharepointFolderName": null, "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 525, "DeskproId": 2577, "SharepointFolderName": null, "Afslutningsdato": "2025-10-10T00:00:00+0000"}
+{"Id": 526, "DeskproId": 2578, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 527, "DeskproId": 2579, "SharepointFolderName": "2579 - Aktindsigt S2023-33353 (lovliggørelsessag)", "Afslutningsdato": "2025-10-14T00:00:00+0000"}
+{"Id": 528, "DeskproId": 2580, "SharepointFolderName": "2580 - Aktindsigt Ønsker dokumenter om renovering og retablering af fortov og indkørsel til Eng(...)", "Afslutningsdato": "2025-10-22T00:00:00+0000"}
+{"Id": 529, "DeskproId": 2581, "SharepointFolderName": "2581 - Aktindsigter Børnehaven Kløverparken", "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 530, "DeskproId": 2582, "SharepointFolderName": "2582 - Aktindsigt Aktindsigt til Regionen på 14 adresser", "Afslutningsdato": "2025-10-21T00:00:00+0000"}
+{"Id": 531, "DeskproId": 2583, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 532, "DeskproId": 2584, "SharepointFolderName": "2584 - Aktindsigt indsigt i dokumenter og oplysninger nævnt under beskrivelse af aktindsigt", "Afslutningsdato": "2025-10-09T00:00:00+0000"}
+{"Id": 533, "DeskproId": 2585, "SharepointFolderName": null, "Afslutningsdato": "2025-10-09T00:00:00+0000"}
+{"Id": 534, "DeskproId": 2586, "SharepointFolderName": "2586 - Aktindsigt Byggesag S2025-12532", "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 535, "DeskproId": 2587, "SharepointFolderName": "2587 - Aktindsigt S2023-33353 (lovliggørelsessag)", "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 536, "DeskproId": 2588, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 537, "DeskproId": 2589, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 538, "DeskproId": 2590, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 539, "DeskproId": 2591, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 540, "DeskproId": 2592, "SharepointFolderName": null, "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 541, "DeskproId": 2593, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 542, "DeskproId": 2594, "SharepointFolderName": "2594 - Aktindsigt Tegnings materiale på byggeri på Strandvangsvej 66 8250 Egå104", "Afslutningsdato": "2025-10-14T00:00:00+0000"}
+{"Id": 543, "DeskproId": 2595, "SharepointFolderName": null, "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 544, "DeskproId": 2596, "SharepointFolderName": "2596 - Demo aktindsigt til møde", "Afslutningsdato": null}
+{"Id": 545, "DeskproId": 2597, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 546, "DeskproId": 2598, "SharepointFolderName": "2598 - Aktindsigt Udskiftning af facader i Vokseværket104", "Afslutningsdato": "2025-10-21T00:00:00+0000"}
+{"Id": 547, "DeskproId": 2599, "SharepointFolderName": "2599 - Aktindsigter Brevudveksling mv vedr renovering og genhusning af Vokseværket Østboulevard(...)", "Afslutningsdato": "2025-10-09T00:00:00+0000"}
+{"Id": 548, "DeskproId": 2600, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 549, "DeskproId": 2601, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 550, "DeskproId": 2602, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 551, "DeskproId": 2603, "SharepointFolderName": "2603 - Aktindsigter Asmusvej 1A 8530 Hjortshøj", "Afslutningsdato": "2025-10-10T00:00:00+0000"}
+{"Id": 552, "DeskproId": 2604, "SharepointFolderName": null, "Afslutningsdato": null}
+{"Id": 553, "DeskproId": 2605, "SharepointFolderName": "2605 - Anmodning om aktindsigt – byggesag S2022-12931 Skt Clemens Torv 15 3 mf 8000 Aarhus C", "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 554, "DeskproId": 2606, "SharepointFolderName": null, "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 555, "DeskproId": 2607, "SharepointFolderName": "2607 - Aktindsigt Påbud om lovliggørelse", "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 556, "DeskproId": 2608, "SharepointFolderName": null, "Afslutningsdato": "2025-10-13T00:00:00+0000"}
+{"Id": 557, "DeskproId": 2609, "SharepointFolderName": null, "Afslutningsdato": "2025-10-15T00:00:00+0000"}
+{"Id": 558, "DeskproId": 2610, "SharepointFolderName": "2610 - Aktindsigt S2025-30287", "Afslutningsdato": "2025-10-15T00:00:00+0000"}
+{"Id": 559, "DeskproId": 2611, "SharepointFolderName": "2611 - Aktindsigt i postliste", "Afslutningsdato": "2025-10-30T00:00:00+0000"}
+{"Id": 560, "DeskproId": 2612, "SharepointFolderName": "2612 - Anmodning om aktindsigt i dokument fra postlisten", "Afslutningsdato": "2025-10-20T00:00:00+0000"}
+{"Id": 561, "DeskproId": 2613, "SharepointFolderName": "2613 - Aktindsigt Postliste", "Afslutningsdato": "2025-10-14T00:00:00+0000"}
+{"Id": 562, "DeskproId": 2614, "SharepointFolderName": null, "Afslutningsdato": "2025-10-16T00:00:00+0000"}
+{"Id": 563, "DeskproId": 2615, "SharepointFolderName": null, "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 564, "DeskproId": 2616, "SharepointFolderName": null, "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 565, "DeskproId": 2617, "SharepointFolderName": null, "Afslutningsdato": "2025-10-20T00:00:00+0000"}
+{"Id": 566, "DeskproId": 2618, "SharepointFolderName": null, "Afslutningsdato": "2025-10-16T00:00:00+0000"}
+{"Id": 567, "DeskproId": 2619, "SharepointFolderName": null, "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 568, "DeskproId": 2620, "SharepointFolderName": "2620 - Aktindsigt Aftaler mellem Aarhus Kommune og Aarhus Vand", "Afslutningsdato": "2025-10-14T00:00:00+0000"}
+{"Id": 569, "DeskproId": 2621, "SharepointFolderName": null, "Afslutningsdato": "2025-10-23T00:00:00+0000"}
+{"Id": 570, "DeskproId": 2622, "SharepointFolderName": "2622 - Aktindsigt Omniterminal", "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 571, "DeskproId": 2623, "SharepointFolderName": "2623 - Aktindsigt Anmodning om tilladelse og bordopstilling ved Markedshallen – Nicolinehus (ud(...)", "Afslutningsdato": "2025-10-16T00:00:00+0000"}
+{"Id": 572, "DeskproId": 2624, "SharepointFolderName": "2624 - Aktindsigt Sagsforløb vedrørende påbud til virksomhed efter spild af asbest på min adres(...)", "Afslutningsdato": "2025-10-20T00:00:00+0000"}
+{"Id": 573, "DeskproId": 2625, "SharepointFolderName": "2625 - Aktindsigt – Sjællandsgade 94 8000 Aarhus C (sagsnr 201705108 201901321 201903078)", "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 574, "DeskproId": 2626, "SharepointFolderName": null, "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 575, "DeskproId": 2627, "SharepointFolderName": "2627 - Anmodning om aktindsigt - Kirkegårdsvej 7 Aarhus - tidligere med sagsnummer S2025-28788", "Afslutningsdato": "2025-10-22T00:00:00+0000"}
+{"Id": 576, "DeskproId": 2628, "SharepointFolderName": null, "Afslutningsdato": "2025-10-17T00:00:00+0000"}
+{"Id": 577, "DeskproId": 2629, "SharepointFolderName": "2629 - Aktindsigt BNBO Hårup vandværk", "Afslutningsdato": ""}
+{"Id": 578, "DeskproId": 2630, "SharepointFolderName": null, "Afslutningsdato": "2025-10-20T00:00:00+0000"}
+{"Id": 579, "DeskproId": 2631, "SharepointFolderName": "2631 - Aktindsigt Rema 1000 projektet i Lystrup", "Afslutningsdato": "2025-10-23T00:00:00+0000"}
+{"Id": 580, "DeskproId": 2632, "SharepointFolderName": "2632 - Aktindsigt Byggetilladelse", "Afslutningsdato": "2025-10-27T00:00:00+0000"}
+{"Id": 581, "DeskproId": 2633, "SharepointFolderName": "2633 - Aktindsigt Knudrisgade 27", "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 582, "DeskproId": 2634, "SharepointFolderName": null, "Afslutningsdato": "2025-10-22T00:00:00+0000"}
+{"Id": 583, "DeskproId": 2635, "SharepointFolderName": "2635 - Aktindsigt Ang sag om koldtvandskar ved sauna i Aarhus", "Afslutningsdato": "2025-10-21T00:00:00+0000"}
+{"Id": 584, "DeskproId": 2636, "SharepointFolderName": "2636 - Aktindsigt Ibrugtag tilladelse", "Afslutningsdato": "2025-10-27T00:00:00+0000"}
+{"Id": 585, "DeskproId": 2637, "SharepointFolderName": null, "Afslutningsdato": "2025-10-24T00:00:00+0000"}
+{"Id": 586, "DeskproId": 2638, "SharepointFolderName": "2638 - Aktindsigt vedr manglende indhegning", "Afslutningsdato": "2025-10-21T00:00:00+0000"}
+{"Id": 587, "DeskproId": 2639, "SharepointFolderName": "2639 - Aktindsigt Indbliksgener i forbindelse med byggeri", "Afslutningsdato": "2025-10-24T00:00:00+0000"}
+{"Id": 588, "DeskproId": 2640, "SharepointFolderName": null, "Afslutningsdato": "2025-10-27T00:00:00+0000"}
+{"Id": 589, "DeskproId": 2641, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 590, "DeskproId": 2642, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 591, "DeskproId": 2643, "SharepointFolderName": "2643 - Aktindsigt Byggesag på Egå Strandvej 100 8250 Egå", "Afslutningsdato": "2025-10-27T00:00:00+0000"}
+{"Id": 592, "DeskproId": 2644, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 593, "DeskproId": 2645, "SharepointFolderName": "2645 - Aktindsigt Byggeri Egå Strandvej 100 8250 Egå", "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 594, "DeskproId": 2646, "SharepointFolderName": "2646 - Aktindsigt i dokumenter fra aktliste - Omniterminalen", "Afslutningsdato": "2025-10-31T00:00:00+0000"}
+{"Id": 595, "DeskproId": 2647, "SharepointFolderName": "2647 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-10-27T00:00:00+0000"}
+{"Id": 596, "DeskproId": 2648, "SharepointFolderName": "2648 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-10-24T00:00:00+0000"}
+{"Id": 597, "DeskproId": 2649, "SharepointFolderName": null, "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 598, "DeskproId": 2650, "SharepointFolderName": "2650 - Anmodning om aktindsigt i S2025-11073 Frederiks Allé 93 8000 Aarhus C", "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 599, "DeskproId": 2651, "SharepointFolderName": null, "Afslutningsdato": "2025-10-24T00:00:00+0000"}
+{"Id": 600, "DeskproId": 2652, "SharepointFolderName": "2652 - Aktindsigt vedr vaskepladsen ved Kaløvig Bådelaug", "Afslutningsdato": "2025-10-24T00:00:00+0000"}
+{"Id": 601, "DeskproId": 2653, "SharepointFolderName": "2653 - Aktindsigt Jordforurening - Niels Juels Gade 79 ST 8200 Aarhus N - EDC 810002938", "Afslutningsdato": "2025-10-27T00:00:00+0000"}
+{"Id": 602, "DeskproId": 2654, "SharepointFolderName": null, "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 603, "DeskproId": 2655, "SharepointFolderName": null, "Afslutningsdato": "2025-10-24T00:00:00+0000"}
+{"Id": 604, "DeskproId": 2656, "SharepointFolderName": "2656 - Jeg ønsker aktindsigt i samtlige sager dokumenter og oplysninger der vedrører ejendommen(...)", "Afslutningsdato": "2025-10-31T00:00:00+0000"}
+{"Id": 605, "DeskproId": 2657, "SharepointFolderName": "2657 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 606, "DeskproId": 2658, "SharepointFolderName": "2658 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-10-30T00:00:00+0000"}
+{"Id": 607, "DeskproId": 2659, "SharepointFolderName": "2659 - Aktindsigt Kærvej 11", "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 608, "DeskproId": 2660, "SharepointFolderName": "2660 - Aktindsigt i postliste", "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 609, "DeskproId": 2661, "SharepointFolderName": null, "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 610, "DeskproId": 2662, "SharepointFolderName": null, "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 611, "DeskproId": 2663, "SharepointFolderName": "2663 - Aktindsigt Omniterminalen Århus Havn", "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 612, "DeskproId": 2664, "SharepointFolderName": null, "Afslutningsdato": "2025-10-28T00:00:00+0000"}
+{"Id": 613, "DeskproId": 2665, "SharepointFolderName": null, "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 614, "DeskproId": 2666, "SharepointFolderName": "2666 - Anmodning om aktindsigt i byggesag vedr lokalplan 901 Århus Havn", "Afslutningsdato": "2025-10-29T00:00:00+0000"}
+{"Id": 615, "DeskproId": 2667, "SharepointFolderName": "2667 - Aktindsigt Omniterminal", "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 616, "DeskproId": 2668, "SharepointFolderName": "2668 - Aktindsigt i renovering af Riisvangen Stadion herunder etablering af kunstgræsbane på Ri(...)", "Afslutningsdato": "2025-10-30T00:00:00+0000"}
+{"Id": 617, "DeskproId": 2669, "SharepointFolderName": "2669 - Aktindsigt i byggesag S2022-27145 vedr Skt Pauls Gade 27C Det er vedr sammenlægning af 3(...)", "Afslutningsdato": "2025-10-30T00:00:00+0000"}
+{"Id": 618, "DeskproId": 2670, "SharepointFolderName": "2670 - Jeg ønsker aktindsigt i den sag der kører vedr opførelse af ny bolig på adressen Strandv(...)", "Afslutningsdato": "2025-10-30T00:00:00+0000"}
+{"Id": 619, "DeskproId": 2671, "SharepointFolderName": "2671 - Aktindsigt", "Afslutningsdato": "2025-10-31T00:00:00+0000"}
+{"Id": 620, "DeskproId": 2672, "SharepointFolderName": null, "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 621, "DeskproId": 2673, "SharepointFolderName": "2673 - Aktindsigt Bønnekald gellerup", "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 622, "DeskproId": 2674, "SharepointFolderName": null, "Afslutningsdato": "2025-11-10T00:00:00+0000"}
+{"Id": 623, "DeskproId": 2675, "SharepointFolderName": null, "Afslutningsdato": "2025-11-04T00:00:00+0000"}
+{"Id": 624, "DeskproId": 2676, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 625, "DeskproId": 2677, "SharepointFolderName": "2677 - Aktindsigt", "Afslutningsdato": "2025-10-31T00:00:00+0000"}
+{"Id": 626, "DeskproId": 2678, "SharepointFolderName": null, "Afslutningsdato": "2025-10-31T00:00:00+0000"}
+{"Id": 627, "DeskproId": 2679, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 628, "DeskproId": 2680, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 629, "DeskproId": 2681, "SharepointFolderName": "2681 - Aktindsigt af tillæg til byggetilladelse S2024-51908", "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 630, "DeskproId": 2682, "SharepointFolderName": null, "Afslutningsdato": "2025-11-03T00:00:00+0000"}
+{"Id": 631, "DeskproId": 2683, "SharepointFolderName": "2683 - Aktindsigt Nordre Strandvej 7 8240 Risskov (byggesag alle dokumenter)", "Afslutningsdato": "2025-11-11T00:00:00+0000"}
+{"Id": 632, "DeskproId": 2684, "SharepointFolderName": "2684 - Aktindsigt Fuld agtindsigt", "Afslutningsdato": "2025-11-20T00:00:00+0000"}
+{"Id": 633, "DeskproId": 2685, "SharepointFolderName": "2685 - Anmodning om aktindsigt – Heklagade 6B 8200 Aarhus N", "Afslutningsdato": "2025-11-07T00:00:00+0000"}
+{"Id": 634, "DeskproId": 2686, "SharepointFolderName": "2686 - Anmodning om aktindsigt", "Afslutningsdato": "2025-11-07T00:00:00+0000"}
+{"Id": 635, "DeskproId": 2687, "SharepointFolderName": "2687 - MTM-CME jnr S2024-43311 S2024-27886 Parkeringskælder mv under ejendommen Skt Pauls Gade (...)", "Afslutningsdato": "2025-11-07T00:00:00+0000"}
+{"Id": 636, "DeskproId": 2688, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 637, "DeskproId": 2689, "SharepointFolderName": "2689 - Aktindsigt Indsigt i postliste", "Afslutningsdato": ""}
+{"Id": 638, "DeskproId": 2690, "SharepointFolderName": "2690 - Aktindsigt Lokalplan 1249 Dagligvarebutik og bevaringsværdig bebyggelse Højbjerg Centrum", "Afslutningsdato": "2025-11-07T00:00:00+0000"}
+{"Id": 639, "DeskproId": 2691, "SharepointFolderName": "2691 - AKTINDSIGTSANMODNING – VEJLBY VEST", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 640, "DeskproId": 2692, "SharepointFolderName": "2692 - Anmodning om aktindsigt i byggesag vedr Højen 3 8220 Brabrand - S2025-74715", "Afslutningsdato": "2025-11-07T00:00:00+0000"}
+{"Id": 641, "DeskproId": 2693, "SharepointFolderName": null, "Afslutningsdato": "2025-11-07T00:00:00+0000"}
+{"Id": 642, "DeskproId": 2694, "SharepointFolderName": "2694 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 643, "DeskproId": 2695, "SharepointFolderName": "2695 - Aktindsigt Dispensationer", "Afslutningsdato": "2025-11-17T00:00:00+0000"}
+{"Id": 644, "DeskproId": 2696, "SharepointFolderName": null, "Afslutningsdato": "2025-11-11T00:00:00+0000"}
+{"Id": 645, "DeskproId": 2697, "SharepointFolderName": "2697 - Aktindsigt Indsigt i postliste", "Afslutningsdato": "2025-11-10T00:00:00+0000"}
+{"Id": 646, "DeskproId": 2698, "SharepointFolderName": "2698 - Aktindsigt ST2022-461813 Søgade 11", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 647, "DeskproId": 2699, "SharepointFolderName": "2699 - Aktindsigt Indsigt i udkast til bygge- og anlægsarbejde", "Afslutningsdato": ""}
+{"Id": 648, "DeskproId": 2700, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 649, "DeskproId": 2701, "SharepointFolderName": "2701 - Anmodning om aktindsigt i Planstrategi 2008 (Behandles uden om Aktbob)", "Afslutningsdato": "2025-11-14T00:00:00+0000"}
+{"Id": 650, "DeskproId": 2702, "SharepointFolderName": null, "Afslutningsdato": "2025-11-11T00:00:00+0000"}
+{"Id": 651, "DeskproId": 2703, "SharepointFolderName": "2703 - Aktindsigt Grundvandsoversvømmelse af Safirvej 26B 8541 Skødstrup", "Afslutningsdato": ""}
+{"Id": 652, "DeskproId": 2704, "SharepointFolderName": "2704 - Anmodning om aktindsigt i høringssvar", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 653, "DeskproId": 2705, "SharepointFolderName": null, "Afslutningsdato": "2025-11-14T00:00:00+0000"}
+{"Id": 654, "DeskproId": 2706, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 655, "DeskproId": 2707, "SharepointFolderName": null, "Afslutningsdato": "2025-11-13T00:00:00+0000"}
+{"Id": 656, "DeskproId": 2708, "SharepointFolderName": "2708 - Aktindsigt Matrikel 6ab Brabrand By Brabrand", "Afslutningsdato": "2025-11-14T00:00:00+0000"}
+{"Id": 657, "DeskproId": 2709, "SharepointFolderName": null, "Afslutningsdato": "2025-11-14T00:00:00+0000"}
+{"Id": 658, "DeskproId": 2710, "SharepointFolderName": "2710 - Aktindsigt Omniterminal", "Afslutningsdato": "2025-11-13T00:00:00+0000"}
+{"Id": 659, "DeskproId": 2711, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 660, "DeskproId": 2712, "SharepointFolderName": null, "Afslutningsdato": "2025-11-21T00:00:00+0000"}
+{"Id": 661, "DeskproId": 2713, "SharepointFolderName": null, "Afslutningsdato": "2025-11-14T00:00:00+0000"}
+{"Id": 662, "DeskproId": 2714, "SharepointFolderName": "2714 - Aktindsigt Byggesag - Nannasvej 5 8230 Åbyhø", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 663, "DeskproId": 2715, "SharepointFolderName": "2715 - Test - udleveringslink", "Afslutningsdato": ""}
+{"Id": 664, "DeskproId": 2716, "SharepointFolderName": "2716 - Aktindsigt Trafikuheld og borgerhenvendelser om rundkørslen ved Risskov Skole", "Afslutningsdato": "2025-11-26T00:00:00+0000"}
+{"Id": 665, "DeskproId": 2717, "SharepointFolderName": "2717 - Aktindsigt Byggesag på Rugmarken 63 8520 Lystryp", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 666, "DeskproId": 2718, "SharepointFolderName": "2718 - Anmodning om aktindsigt i sager vedr Bispelundvej 44", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 667, "DeskproId": 2719, "SharepointFolderName": "2719 - Anmodning om aktindsigt i S2023-43294", "Afslutningsdato": "2025-11-14T00:00:00+0000"}
+{"Id": 668, "DeskproId": 2720, "SharepointFolderName": null, "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 669, "DeskproId": 2721, "SharepointFolderName": "2721 - Aktindsigt Skibbyvej 58", "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 670, "DeskproId": 2722, "SharepointFolderName": "2722 - Anmodning om aktindsigt i lokalplan 1245", "Afslutningsdato": "2025-11-24T00:00:00+0000"}
+{"Id": 671, "DeskproId": 2723, "SharepointFolderName": null, "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 672, "DeskproId": 2724, "SharepointFolderName": "2724 - Aktindsigt 20241105035 - Skadelidte anmoder om aktindsigt i vejmyndighedssager og herund(...)", "Afslutningsdato": "2025-11-20T00:00:00+0000"}
+{"Id": 673, "DeskproId": 2725, "SharepointFolderName": "2725 - Aktindsigt Cykelsti langs Kærbyvej Topkærvej 3", "Afslutningsdato": "2025-11-24T00:00:00+0000"}
+{"Id": 674, "DeskproId": 2726, "SharepointFolderName": "2726 - Aktindsigt Stenkløvervej 10 Risskov", "Afslutningsdato": "2025-11-20T00:00:00+0000"}
+{"Id": 675, "DeskproId": 2727, "SharepointFolderName": null, "Afslutningsdato": "2025-11-18T00:00:00+0000"}
+{"Id": 676, "DeskproId": 2728, "SharepointFolderName": null, "Afslutningsdato": "2025-11-24T00:00:00+0000"}
+{"Id": 677, "DeskproId": 2729, "SharepointFolderName": null, "Afslutningsdato": "2025-11-25T00:00:00+0000"}
+{"Id": 678, "DeskproId": 2730, "SharepointFolderName": null, "Afslutningsdato": "2025-11-24T00:00:00+0000"}
+{"Id": 679, "DeskproId": 2731, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 680, "DeskproId": 2732, "SharepointFolderName": "2732 - Aktindsigt Søvangen", "Afslutningsdato": "2025-11-24T00:00:00+0000"}
+{"Id": 681, "DeskproId": 2733, "SharepointFolderName": "2733 - Aktindsigt Byggeanmodning fra Netto i Lystrup om udvidelse", "Afslutningsdato": ""}
+{"Id": 682, "DeskproId": 2734, "SharepointFolderName": "2734 - Test af system", "Afslutningsdato": "2025-12-05T00:00:00+0000"}
+{"Id": 683, "DeskproId": 2735, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 684, "DeskproId": 2736, "SharepointFolderName": "2736 - Aktindsigt Agtindsigt i byggesag Risbøgevej 10 8220", "Afslutningsdato": "2025-11-24T00:00:00+0000"}
+{"Id": 685, "DeskproId": 2737, "SharepointFolderName": "2737 - Aktindsigt", "Afslutningsdato": "2025-11-25T00:00:00+0000"}
+{"Id": 686, "DeskproId": 2738, "SharepointFolderName": "2738 - Aktindsigt Indsigt i byggeri", "Afslutningsdato": "2025-11-25T00:00:00+0000"}
+{"Id": 687, "DeskproId": 2739, "SharepointFolderName": "2739 - Elsdyrvej 7B Fuld aktindsigt med henblik på klage", "Afslutningsdato": ""}
+{"Id": 688, "DeskproId": 2740, "SharepointFolderName": "2740 - Aktindsigt Omniterminal", "Afslutningsdato": ""}
+{"Id": 689, "DeskproId": 2741, "SharepointFolderName": "2741 - Aktindsigt Korr ml AAK og Banedanmark ang kloakering af Banedanmarks Kolonihavelodder I Åby", "Afslutningsdato": "2025-11-26T00:00:00+0000"}
+{"Id": 690, "DeskproId": 2742, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 691, "DeskproId": 2743, "SharepointFolderName": "2743 - Test efter databaseændring", "Afslutningsdato": ""}
+{"Id": 692, "DeskproId": 2744, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 693, "DeskproId": 2745, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 694, "DeskproId": 2746, "SharepointFolderName": null, "Afslutningsdato": ""}
+{"Id": 695, "DeskproId": 2747, "SharepointFolderName": null, "Afslutningsdato": ""}
