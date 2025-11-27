@@ -56,11 +56,9 @@ def process(orchestrator_connection: OrchestratorConnection) -> None:
                 Cases.append(json.loads(line.strip()))
     else:
         Cases = GetDeskProIDs(cursor)
-        print("Antal tickets:", len(Cases))
 
         for case in Cases:
             DeskProID = case["DeskproId"]
-            print("Henter fra Deskpro:", DeskProID)
 
             url = f"{DeskproAPIURL}/api/v2/tickets/{DeskProID}"
             headers = {
@@ -72,9 +70,9 @@ def process(orchestrator_connection: OrchestratorConnection) -> None:
                 response.raise_for_status()
             except requests.RequestException as e:
                 status = e.response.status_code if e.response is not None else None
-                print(f'{DeskProID} ikke fundet / fejl: {e}')
+                orchestrator_connection.log_info(f'{DeskProID} ikke fundet / fejl: {e}')
                 if status == 404:
-                    print('Sagen er ikke fundet - søger')
+                    orchestrator_connection.log_info('Sagen er ikke fundet - søger')
                     url_404 = f"{DeskproAPIURL}/api/v2/search?q={DeskProID}&types=ticket"
                     headers = {
                         "Authorization": DeskProAPIKey,
@@ -123,7 +121,6 @@ def process(orchestrator_connection: OrchestratorConnection) -> None:
             filtered_by_id[case["Id"]] = case  # overskriv evt. dubletter
 
     filtered = list(filtered_by_id.values())
-    print("Antal udløbne sager:", len(filtered))
 
     expired_ids = [case["Id"] for case in filtered]
 
@@ -178,19 +175,19 @@ def process(orchestrator_connection: OrchestratorConnection) -> None:
             case["SharepointFolderName"] = None
             case["FilArkivCaseIds"] = []
         if case["SharepointFolderName"]:
-            # queue_json = {
-            #     "DeskproId": case["DeskproId"],
-            #     "SharepointFolderName": case["SharepointFolderName"]
-            # }
+            queue_json = {
+                "DeskproId": case["DeskproId"],
+                "SharepointFolderName": case["SharepointFolderName"]
+            }
 
-            # orchestrator_connection.create_queue_element("DeleteSharepointFolder", "NEW", json.dumps(queue_json))
-            print(f'Jeg sletter {case["DeskproId"]} m {case["SharepointFolderName"]}')
+            orchestrator_connection.create_queue_element("DeleteSharepointFolder", "NEW", json.dumps(queue_json))
+            # print(f'Jeg sletter {case["DeskproId"]} m {case["SharepointFolderName"]}')
         if case["FilArkivCaseIds"]:
             for id in case["FilArkivCaseIds"]:
-                print(f'Jeg sletter {case["DeskproId"]} m {id}')
-                # queue_json = {
-                #     "DeskproId": case["DeskproId"],
-                #     "FilarkivCaseId": id
-                # }
+                # print(f'Jeg sletter {case["DeskproId"]} m {id}')
+                queue_json = {
+                    "DeskproId": case["DeskproId"],
+                    "FilarkivCaseId": id
+                }
 
-                # orchestrator_connection.create_queue_element("DeleteFilArkivCase", "NEW", json.dumps(queue_json))
+                orchestrator_connection.create_queue_element("DeleteFilArkivCase", "NEW", json.dumps(queue_json))
