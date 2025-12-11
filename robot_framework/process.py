@@ -119,9 +119,9 @@ def process(orchestrator_connection: OrchestratorConnection) -> None:
     # filtrér på afslutningsdato
     filtered_by_id = {}
 
-    # Brug en fælles cutoff-tid (61 dage siden nu)
+    # Brug en fælles cutoff-tid
     now_utc = datetime.now(pytz.utc)
-    cutoff = now_utc - timedelta(days=60)
+    cutoff = now_utc - timedelta(days=50)
 
     for case in Cases:
         raw = case.get("Afslutningsdato")
