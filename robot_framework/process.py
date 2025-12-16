@@ -121,7 +121,7 @@ def process(orchestrator_connection: OrchestratorConnection) -> None:
 
     # Brug en fælles cutoff-tid
     now_utc = datetime.now(pytz.utc)
-    cutoff = now_utc - timedelta(days=45)
+    cutoff = now_utc - timedelta(days=40)
 
     for case in Cases:
         raw = case.get("Afslutningsdato")
