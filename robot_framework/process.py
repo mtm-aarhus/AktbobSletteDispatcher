@@ -108,6 +108,18 @@ def process(orchestrator_connection: OrchestratorConnection) -> None:
             fields = data.get("data", {}).get("fields", {})
             final_date = fields.get("180", {}).get("value", "")
 
+            workflow = fields.get("48", {})
+            details = workflow.get("detail", {})
+
+            is_faerdigbehandlet = any(
+                d.get("title") == "Aktindsigt færdigbehandlet"
+                for d in details.values()
+            )
+
+            if not is_faerdigbehandlet:
+                orchestrator_connection.log_info(f'Sagen {DeskProID} er ikke markeret færdigbehandlet, og springes derfor over')
+                continue
+
             case["Afslutningsdato"] = final_date
             time.sleep(0.3)
 
